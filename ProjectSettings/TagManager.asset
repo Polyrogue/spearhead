@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Spear
+  - Bubble
+  - Net
+  - Score
+  - GM
+  - BubblePUSpear
+  - BubbleBig
+  - BubbleBomb
+  - Explosion
+  - BubblePUTime
+  - BadBrick
+  - Canvas
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 271273743
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BehindSpear
+    uniqueID: 2843331335
+    locked: 0
+  - name: Spear
+    uniqueID: 3330219193
+    locked: 0
+  - name: FG
+    uniqueID: 2157157685
+    locked: 0
